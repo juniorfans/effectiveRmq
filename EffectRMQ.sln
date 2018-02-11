@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rmq", "Rmq\Rmq.vcproj", "{B2D3CE2E-7582-4515-9934-68F398C71527}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CartesianTree", "CartesianTree\CartesianTree.vcproj", "{CDFA1E00-AEFC-4734-96D2-46689BDC7E07}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcproj", "{B931E8E3-6A6B-4D27-BA0E-01A9A7F1AA5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2D3CE2E-7582-4515-9934-68F398C71527}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B2D3CE2E-7582-4515-9934-68F398C71527}.Debug|Win32.Build.0 = Debug|Win32
+		{B2D3CE2E-7582-4515-9934-68F398C71527}.Release|Win32.ActiveCfg = Release|Win32
+		{B2D3CE2E-7582-4515-9934-68F398C71527}.Release|Win32.Build.0 = Release|Win32
+		{CDFA1E00-AEFC-4734-96D2-46689BDC7E07}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CDFA1E00-AEFC-4734-96D2-46689BDC7E07}.Debug|Win32.Build.0 = Debug|Win32
+		{CDFA1E00-AEFC-4734-96D2-46689BDC7E07}.Release|Win32.ActiveCfg = Release|Win32
+		{CDFA1E00-AEFC-4734-96D2-46689BDC7E07}.Release|Win32.Build.0 = Release|Win32
+		{B931E8E3-6A6B-4D27-BA0E-01A9A7F1AA5B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B931E8E3-6A6B-4D27-BA0E-01A9A7F1AA5B}.Debug|Win32.Build.0 = Debug|Win32
+		{B931E8E3-6A6B-4D27-BA0E-01A9A7F1AA5B}.Release|Win32.ActiveCfg = Release|Win32
+		{B931E8E3-6A6B-4D27-BA0E-01A9A7F1AA5B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
